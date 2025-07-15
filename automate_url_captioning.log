@@ -1,0 +1,21 @@
+(my_env) theia@theia-kumarhemanti:/home/project$ 
+(my_env) theia@theia-kumarhemanti:/home/project$ touch automate_url_captioner.py
+(my_env) theia@theia-kumarhemanti:/home/project$ python3 automate_url_captioner.py
+/home/project/my_env/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IBM_CHQ_-_Oct_2014.jpg/250px-IBM_CHQ_-_Oct_2014.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/250px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM360-67AtUmichWithMikeAlexander.jpg/250px-IBM360-67AtUmichWithMikeAlexander.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Saturn_IB_and_V_Instrument_Unit.jpg/250px-Saturn_IB_and_V_Instrument_Unit.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/250px-IBM_PC-IMG_7271_%28transparent%29.png
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/IBMinventions.png/250px-IBMinventions.png
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IBM_Beijing%2C_Pangu_Plaza.jpg/250px-IBM_Beijing%2C_Pangu_Plaza.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mira_-_Blue_Gene_Q_at_Argonne_National_Laboratory_-_Skin.jpg/250px-Mira_-_Blue_Gene_Q_at_Argonne_National_Laboratory_-_Skin.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg/250px-IBM_Q_system_%28Fraunhofer_2%29.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/IBM_Yorktown_Heights.jpg/250px-IBM_Yorktown_Heights.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benoit_Mandelbrot%2C_TED_2010.jpg/250px-Benoit_Mandelbrot%2C_TED_2010.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/IBM_ads_at_JFK.jpg/250px-IBM_ads_at_JFK.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ibmaustin_designcamp.jpg/250px-Ibmaustin_designcamp.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Watson_Jeopardy_demo.jpg/250px-Watson_Jeopardy_demo.jpg
+✅ Captioned: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/20px-Nuvola_apps_ksim.png
+(my_env) theia@theia-kumarhemanti:/home/project$ 

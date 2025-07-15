@@ -1,0 +1,11 @@
+(my_env) theia@theia-kumarhemanti:/home/project$ python3 caption_local_folder.py 
+/home/project/my_env/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+✅ Captioned ./local_images/1a_gradio_app.jpg
+✅ Captioned ./local_images/1b_gradio_image_captioning_terminal.jpg
+✅ Captioned ./local_images/2c_gradio_image_captioning.jpg
+✅ Captioned ./local_images/Building_Generative_AI_Applications.jpg
+✅ Captioned ./local_images/3a_automated_url_captioning.jpg
+✅ Captioned ./local_images/2b_gradio_image_captioning.jpg
+✅ Captioned ./local_images/2a_gradio_image_captioning.jpg
+✅ Captioned ./local_images/example_image.png

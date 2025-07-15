@@ -1,0 +1,8 @@
+./local_images/1a_gradio_app.jpg: the image of a web page with the tag tag
+./local_images/1b_gradio_image_captioning_terminal.jpg: the image of a computer screen with a text box
+./local_images/2c_gradio_image_captioning.jpg: the image of a group of people walking in a field
+./local_images/Building_Generative_AI_Applications.jpg: the image of a man's head with the words building gen applications
+./local_images/3a_automated_url_captioning.jpg: the image of the text editor in the editor editor
+./local_images/2b_gradio_image_captioning.jpg: the image of a person in a field with a photo of a person on the screen
+./local_images/2a_gradio_image_captioning.jpg: the image of a page with the image of a page
+./local_images/example_image.png: the image of two dice
